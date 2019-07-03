@@ -10,7 +10,14 @@ Favorite Demming Quotes
 
 	Best efforts will not substitute for knowledge.
 
-	The aim of leadership is not merely to find and record the failings of men
+	The aim of leadership should be to improve the performance of man and machine, to improve quality, 
+	to increase output, and simultaneously to bring pride of workmanship to people.
+	Put in a negative way, the aim of leadership is not merely to find and record failures of men, 
+	but to remove the causes of failure: to help people to do a better job with less effort.
+
+	In God we trust, all others must bring data.
+
+	Research shows that the climate of an organization influences an individual's contribution far more than the individual himself.
 
 	Innovation comes from people who take joy in their work.
 
@@ -40,6 +47,10 @@ Favorite Demming Quotes
 	when everyone is working to help the company.
 
 	There must be consistency in direction.
+	
+	A company could put a top man at every position and be swallowed by a competitor with people only half as good, but who are working together.
+
+
 
 
 
@@ -53,11 +64,32 @@ Favorite Skaespeare Qutoes
 	 And in the taste confounds the appetite:
 	 Therefore love moderately; long love doth so;
 	 Too swift arrives as tardy as too slow.
+	 
+ My Quotes and Aphorisms
+ 
+		A tool must suit its purpose.  Its easy to loose sight of the forest through the trees.  But we have to be cognizent of WHY we're doing what we're doing and remember to hold the tool accountable to suite the puropse it was intended for.
+
+		Anything is simple, when viewed from the right perspective.  Its all about finding the right perspective so that you can understand something.  A small difference in the view you get vs the person next to you can be the difference between
+		understanding and confusion.  So its important to create incredibly clear documentation and code to create more understanding.
+
+		One should alwayse be worst case neutral, its never ok to be a jerk to the people around you.  Better to leave.  Similarly its perfectly ok to do nothing to the people around you, there's nothing wrong with that.
+
+		There is no sacred knolege, you know somethings, others know somethings.  There is nothing sacred about your knolege or thier knolege.  Its just knolege.
+		
+		Most of the problems in the workplace come from poorly managed details the best fix for this is systematic thinking and dicipline.  
+		
+		I think authority and relationships are both very paridoxical; in that there not something you can force your way through.  Its like the tighter you clamp down the more it slips through your fingers.  In a relationship I think sometimes you
+		get further ahead by letting go.  I think often managers have better results by trusting their employees and focusing their efforts on improving the system.  I think this is why they say "to lead is to serve".  And why Demming pushes
+		so hard for systemic change; because there is a confirmation bias in the authority structure which often finds it all too easy to blame workers for systemic problems.
+
+		The onlything thats special about me, is that I don't think I'm especially special.
+
+		Nothings impossible, almost everything is improbable.
+		
+		You can understand anything once you see it with the right perspective.  The journey for understanding starts
+		by searching for that perspective.  
 
  
- 
- 
-
  Favorite Co-Worker Quotes
  
 	 "Never believe something about someone untill you see it with your own eyes"
@@ -67,7 +99,7 @@ Favorite Skaespeare Qutoes
 	  - Gary Chopchinsky
 	  
 	 "Here is how IT requests works:
-	  You ask We say no"
+		You ask We say no"
 	  - John Wasko
 	  
 	 "Well, I Broke it"
@@ -76,4 +108,5 @@ Favorite Skaespeare Qutoes
 	 "so this guy can touch the children?"
 	  - Robby
 	  
-	  ""
+	  
+	  
